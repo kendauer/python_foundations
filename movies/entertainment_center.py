@@ -34,8 +34,4 @@ hunger_games = media.Movie("Hunger Games",
 
 movies = [toy_story, avatar, apocalypseNow, school_of_rock, ratatouille, hunger_games]
 
-#print(media.Movie.VALID_RATINGS[2])
-
-#fresh_tomatoes.open_movies_page(movies)
-
-print(media.Movie.__module__)
+fresh_tomatoes.open_movies_page(movies)
